@@ -1,2 +1,2 @@
 # Jazzie's Art Portfolio Website
-Portfolio website of Jasmine Nicholas
+Portfolio website for Jazzie's Art
